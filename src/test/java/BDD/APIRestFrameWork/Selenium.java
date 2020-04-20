@@ -12,5 +12,8 @@ public class Selenium {
 	public void selenium3() {
 		System.out.println("Selenium Testing -3");
 	}
+	public void selenium4() {
+		System.out.println("Selenium Testing -4");
+	}
 	
 }
